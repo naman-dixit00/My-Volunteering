@@ -7,7 +7,7 @@
     >
   </a>
   # Volunteering & Community Contributions  
-### by [Your Name]
+### by Naman Dixit 
 
 ## Repository Overview  
 This repository documents my major **volunteer activities**, **community attendances**, and **certification-challenge participations** across leading technology ecosystems.  
